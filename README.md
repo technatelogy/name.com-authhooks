@@ -4,7 +4,7 @@ Simple Certbot DNS manual auth hooks for name.com dns-01 challenge to allow for 
 ## How to use?
 1. Clone the repo.
 2. [Generate an API token](https://www.name.com/support/articles/360007597874-signing-up-for-api-access) to use on name.com
-3. Fill credentials in both files and update domain to your domain name.
+3. Fill credentials in both files.
 
 
 ## Example:
